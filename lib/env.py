@@ -1,0 +1,1 @@
+DATA_PATH = f'/home/andrew/smoking/data'
